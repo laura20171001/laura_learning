@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="laura_learning:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mmall.war">
+      <element id="artifact" artifact-name="laura_learning:war exploded" />
+    </root>
+  </artifact>
+</component>
